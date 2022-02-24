@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Mahrooo
-- 👀 I’m interested in Robot Motion planning, Optimization and Control, State Estimation and Deep Reinforcement Learning.
-- 💞️ I'm passionate about self-driving cars!
+- 👀 I’m interested in Robot Motion planning, Optimization and Control, State Estimation and Reinforcement Learning.
 - 📫 How to reach me: mahroobh@bu.edu, https://www.linkedin.com/in/mahroo-bahreinian-7a721485/
 
 <!---
